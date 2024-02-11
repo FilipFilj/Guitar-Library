@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141057687628",
+    "project_id": "guitarlibrary-11647",
+    "storage_bucket": "guitarlibrary-11647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141057687628:android:d241a853deb5a3cddd74e9",
+        "android_client_info": {
+          "package_name": "hr.ferit.filipfiljevic.guitarlibrary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATpMvhjtb7ElHxNkXN2NlO8GJXoxPRT0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
